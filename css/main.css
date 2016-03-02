@@ -1,0 +1,46 @@
+/*                             ___                              ___
+ *  __________  _____  ____ ___|  |___  ______  _____ __ __ ___ |  |___
+ * / ___/     \/     |/  __| ___|     |/     ||/  _||/  \| | ___|      |
+ * \___ \  |)    (|  |   |__  _|_  |) |  (|  |   ||        |  _|_   |) |
+ * /____/  ___/\_____|\_____|____|___ |\_____|___||____|___|_____|____ |
+ *     |__|
+*/
+
+body {
+    background: #fff;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 300;
+}
+
+#my-big-head {
+    padding: 60px;
+}
+
+.align-center {
+    text-align: center;
+    margin: 0 auto !important;
+}
+
+a {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+}
+
+#font-section {
+    padding-top: 70px;
+}
+
+a.big {
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+.font-icons {
+    display: inline-block;
+    text-align: center;
+    vertical-align: bottom;
+}
