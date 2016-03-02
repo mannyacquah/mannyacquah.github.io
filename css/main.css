@@ -13,7 +13,7 @@ body {
 }
 
 #my-big-head {
-    padding: 60px;
+    padding: 30px;
 }
 
 .align-center {
@@ -27,11 +27,12 @@ a {
 }
 
 a:hover {
+    text-decoration: none;
     color: #000000;
 }
 
 #font-section {
-    padding-top: 70px;
+    padding-top: 30px;
 }
 
 a.big {
